@@ -1,7 +1,7 @@
 # CodeQL for Visual Studio
 This repository contains [binary releases](https://github.com/Semmle/visualstudio-codeql-binaries/releases) of the Visual Studio extension for writing CodeQL queries. For more information, please refer to [the relevant pages on help.semmle.com](https://help.semmle.com/ql-for-vs/Content/WebHelp/home-page.html).
 
-Note that this plugin is designed to work with [Microsoft Visual Studio IDE](https://visualstudio.microsoft.com/) (not Visual Studio Code). If you're looking to write and run CodeQL queries from Visual Studio Code: please [take a look here](https://github.com/github/vscode-codeql).
+Note that this plugin is designed to work with [Microsoft Visual Studio IDE](https://visualstudio.microsoft.com/) (not Visual Studio Code). If you want to write and run CodeQL queries from Visual Studio Code, you can download the CodeQL extension from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=github.vscode-codeql).
 
 
 ## License
